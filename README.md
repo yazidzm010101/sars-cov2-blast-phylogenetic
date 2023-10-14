@@ -5,18 +5,18 @@ This repository contains program that was used as a tool for FASTA sequence extr
 
 The project structure consist of four folder/file:
 ```
-├─ 01 - Inputs
-├─ 02 - BLAST Similarity Search
-├─ 03 - Preprocessed FASTA Search Results
-├─ 04 - Outputs
+├─ 01-inputs
+├─ 02-blast-search
+├─ 03-fasta-processing
+├─ 04-outputs
 ├─ main_input.ipynb
 └─ main_phylo.ipynb
 ```
-1. [Datasets]("./01 - Inputs/"), contains singular FASTA that was used as an input for BLAST search in the research
-2. [Outputs]("02 - BLAST Similarity Search"), the folder containing search results from each trials
-3. [01_input.ipynb]("./03 - Preprocessed FASTA Search Results"), this directory store fasta files that has been processed using either this python script itself or from external program (MUSCLE)
-3. [01_input.ipynb]("./04 - Outputs"), phylogenetic tree images that was generated from this script
-3. [01_input.ipynb](./main_input.ipynb), python notebook mainly for fasta reading/parsing, extracting, merging, etc
-4. [02_phylogenetic.ipynb](./main_phylo.ipynb), python code to construct phylogenetic tree
+1. [01-inputs](./01-inputs/), contains singular FASTA that was used as an input for BLAST search in the research
+2. [02-blast-search](./02-blast-search/), the folder containing search results from each trials
+3. [03-fasta-processing](./03-fasta-processing/), this directory store fasta files that has been processed using either this python script itself or from external program (MUSCLE)
+3. [04-outputs](./04-outputs/), phylogenetic tree images that was generated from this script
+3. [main_input.ipynb](./main_input.ipynb), python notebook mainly for fasta reading/parsing, extracting, merging, etc
+4. [main_phylo.ipynb](./main_phylo.ipynb), python code to construct phylogenetic tree
 
 You can also read more detailed usage documentation [here](#)
