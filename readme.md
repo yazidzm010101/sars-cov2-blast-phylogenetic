@@ -1,4 +1,4 @@
-<h4><center>BLAST Query Optimization using<br> Recursive Similarity Search for<br> SARS-CoV-2 Phylogenetic Tree Construction</center></h4>
+<h4 align="center">BLAST Query Optimization using<br> Recursive Similarity Search for<br> SARS-CoV-2 Phylogenetic Tree Construction</h4>
 
 --------
 This repository contains program that was used as a tool for FASTA sequence extraction and phylogenetic tree construction using BioPython library and was intended as a part of my research and final examination at Information System Management at Gunadarma University.
