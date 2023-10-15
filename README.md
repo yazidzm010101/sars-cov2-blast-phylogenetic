@@ -9,6 +9,7 @@ The project structure consist of four folder/file:
 ├─ 02-blast-search
 ├─ 03-fasta-processing
 ├─ 04-outputs
+├─ example_working_directory
 ├─ main_input.ipynb
 └─ main_phylo.ipynb
 ```
@@ -16,6 +17,7 @@ The project structure consist of four folder/file:
 2. [02-blast-search](./02-blast-search/), the folder containing search results from each trials
 3. [03-fasta-processing](./03-fasta-processing/), this directory store fasta files that has been processed using either this python script itself or from external program (MUSCLE)
 3. [04-outputs](./04-outputs/), phylogenetic tree images that was generated from this script
+3. [example_working_directory](./example_working_directory/), working directory used in example notebook
 3. [main_input.ipynb](./main_input.ipynb), python notebook mainly for fasta reading/parsing, extracting, merging, etc
 4. [main_phylo.ipynb](./main_phylo.ipynb), python code to construct phylogenetic tree
 
