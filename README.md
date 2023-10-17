@@ -21,4 +21,4 @@ The project structure consist of four folder/file:
 3. [main_input.ipynb](./main_input.ipynb), python notebook mainly for fasta reading/parsing, extracting, merging, etc
 4. [main_phylo.ipynb](./main_phylo.ipynb), python code to construct phylogenetic tree
 
-You can also read more detailed usage documentation [here](#)
+You can also read more detailed usage documentation [here](./manual_book/Manual_Book-SARSCoV2_BLAST_Recursive_Phylogenetic-ID.pdf)
